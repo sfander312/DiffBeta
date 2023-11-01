@@ -1,0 +1,13 @@
+Package: DiffBeta
+Type: Package
+Title: Confidence Intervals for Differences in Standardized Regression Coefficients
+Version: 0.1.0
+Author: Samantha F. Anderson <samantha.f.anderson@asu.edu>
+Maintainer: Samantha F. Anderson <samantha.f.anderson@asu.edu>
+Description: Calculates delta-method-based confidence intervals for the 
+    difference between standardized regression coefficients. Also caclulates
+    the estimate of the difference in coefficients and a p-value. 
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
